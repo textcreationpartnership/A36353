@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nevv plot of the papists by which they design'd to have laid the guilt of their hellish conspiracies against His Majesty and government, upon the dissenting Protestants.</title>
+            <author>J. D. (John Dormer), 1636-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36353</idno>
+            <idno type="STC">Wing D1923A</idno>
+            <idno type="STC">ESTC R215291</idno>
+            <idno type="EEBO-CITATION">99827206</idno>
+            <idno type="PROQUEST">99827206</idno>
+            <idno type="VID">31622</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36353)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31622)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1906:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nevv plot of the papists by which they design'd to have laid the guilt of their hellish conspiracies against His Majesty and government, upon the dissenting Protestants.</title>
+                  <author>J. D. (John Dormer), 1636-1700.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Dublin reprinted :</pubPlace>
+                  <date>ann. Dom. MDCLXXIX. [1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Dormer.</note>
+                  <note>Identified on UMI microfilm as D1925; entry cancelled in Wing (2nd ed.).</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31622:1"/>
+            <!-- PDF PAGE 91 -->
+            <pb facs="tcp:31622:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+            <p>THE NEW PLOT OF THE PAPISTS: BY WHICH They Deſign'd to have laid the <hi>G<g ref="char:V">Ʋ</g>ILT</hi> of their <hi>HELLISH CONSPIRACIES</hi> AGAINST HIS MAJESTY AND GOVERNMENT, <hi>
+                  <g ref="char:V">Ʋ</g>PON THE</hi> Diſſenting Proteſtants.</p>
+            <p>DUBLIN, Reprinted, Ann. Dom. MDCLXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:31622:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 92 -->
+            <p>A <hi>BRIEF ACCO<g ref="char:V">Ʋ</g>NT</hi> OF THE NEVV PLOT.</p>
+            <p>
+               <seg rend="decorInit">C</seg>Ertainly had not <hi>Catiline</hi> liv'd before the Coming of CHRIST, he would have been taken for a <hi>Jeſuit;</hi> ſo like was he to them in his Conditions, his Tenets, and his Practice. His Conditions were Bloody and Cruel, his Plots againſt the Ma<g ref="char:EOLhyphen"/>giſtracy and Government of the whole Nation; and his Doctrine, <hi>That there was no way to be ſafe for them that begin high acts of villany, but by Attempting greater,</hi> How near the <hi>Catilines</hi> of this Age, whoſe Plots againſt his Majeſtie and His Government have been ſo lately Diſcovered, followed the Footſteps of Father <hi>Cethegus,</hi> and Father <hi>Curius,</hi> and the reſt of that Bloody Gang, every day more and more diſcovers. Here has been Plot upon Plot, and greater Ills at<g ref="char:EOLhyphen"/>tempted to conceal the ſhame and Ignominy of former Impieties; Trea<g ref="char:EOLhyphen"/>ſon ſo foul and horrid, that Treaſon it ſelf could not Reſt till it had re<g ref="char:EOLhyphen"/>veal'd it 3 while Labouring againſt the Stream of Providence, the Con<g ref="char:EOLhyphen"/>trivers fall into thoſe Snares themſelves, which they were ſo cunningly Covering to Entrap others.</p>
+            <p>The Firſt notice of this laſt Contrivance was given by Colonel <hi>Man<g ref="char:EOLhyphen"/>ſell;</hi> So that His Majeſtie was pleaſed upon the Twenty ſeventh of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> laſt; to have a full hearing of the Buſineſs in Council: Where the Colonel made his Complaint againſt one <hi>Willoughby</hi> alias <hi>Dangerfield,</hi> alias <hi>Thomas,</hi> alias <hi>Day,</hi> who had been about ſix Weeks ago a Priſoner in <hi>Newgate</hi> under <hi>Conviction</hi> for ſeveral <hi>Notorious Crimes,</hi> and was thence diſcharged by the <hi>Sollicitation</hi> and <hi>Expence</hi> of one Mrs. <hi>Cellier</hi> a <hi>zealous</hi> papiſt and Mids Wiſe to the Lady <hi>Fowis,</hi> and ſeveral other Ladies of the Romiſh Per<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>waſion.</p>
+            <p>The Main of the deſign, as it appeared, was this; That certain per<g ref="char:EOLhyphen"/>ſo<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s intending a new <hi>Plot,</hi> thereby to throw the Old One upon the Proteſtants began to put their contrivance in Execution, by the Aſſi<g ref="char:EOLhyphen"/>ſtance of this moſt ſpecial inſtrument, <hi>Willoughby,</hi> who to this effect begin<g ref="char:EOLhyphen"/>ing with Colonel <hi>Manſell,</hi> lyingin Ax-Yard in Weſtminſter, tock a Lodg<g ref="char:EOLunhyphen"/>ing
+<pb n="3" facs="tcp:31622:2"/>
+               <!-- PDF PAGE 92 -->in the ſame Houſe, where having lain but one Night, the very next Day he goes to the Commiſſioners of the Cuſtom Houſe, and informs them, That at ſuch a Houſe in Ax Yard there lay conceal<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſeveral par<g ref="char:EOLhyphen"/>cels of French Lace, and other prohibited Goods; deſiring their War<g ref="char:EOLhyphen"/>rant withal, and Authority to Search for and Seize the ſame: Which the Commiſſioners readily granted, and ſent two of their Officers along with him for farther ſecurity and Aſſiſtance.</p>
+            <p>Theſe Perſons coming to the ſaid Houſe, declared that they came to ſearch for above a thouſand pounds worth of prohibited Goods that ſay concealed therein. Their Errand very much ſurpr<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zed the Miſtreſs of the Houſe, in regard (that to the beſt of her knowledge) ſhe had never lodged any that were either Merchants or Traders in Forein or ot<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er commodities whatſoever. Notwithſtanding which, the New Lodger and the Officers proceeded to make a diligent ſearch in all places, and coming into the Colonels Chamber, by <hi>Willoughbies</hi> particular directi<g ref="char:EOLhyphen"/>ons very ſtrictly examined every Corner, but more eſpecially the bed and bedſted, which was removed and carefully ſearched by the help of a Candle, which the Miſtreſs of the houſe brought up. After the Officers had made a long ſearch, and could find nothing, they applyed them<g ref="char:EOLhyphen"/>ſelves to put up the Golonels Cloths and Goods which had been tumbled and miſplaced, intending to depart. But in the Interim, <hi>Willoughby</hi> who had continued all the while behind the bed, cryed out, What? <hi>were we all blind? come look what this is.</hi> Whereupon the Officers returning to ſee, what they could not imagin they had ſeen there before, found a broad large and thick Packquet p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nned to the head Cloath of the bed, which they pulled down &amp; found ſealed; but preſently broak open &amp; perceived it to be a Pacquet of Letters: One of which <hi>Willoughby</hi> ſuddenly catching up, in a great ſurpriſe cryed cut, <hi>Treaſon, Treaſon; theſe are all trayterous Letters;</hi> Thereupon the Officers carried the Letters to the commiſſioners, and made a full report of all that had happened, which ſeemed a ſtrange kind of an intregue to them. The Colonel who was abſent all this while; at length comes home, and underſtanding what had paſſed, found means to retrive the ſaid pacquet; and immediatly carried it to his Majeſtie, with an account of what had befallen him, aſſuring His Majeſtie of his own Innocence, and produced ſuch proofs thereof, that he occaſioned <hi>Willoughby</hi> to be committed to Newgate, and an or<g ref="char:EOLhyphen"/>der to be given to the Attorney General for the Drawing up of an Indict<g ref="char:EOLhyphen"/>ment of High Treaſon againſt <hi>Willoughby</hi>
+            </p>
+            <p>Upon <hi>November</hi> 1. 1679 Colonel <hi>Manſell</hi> further proved by good wit<g ref="char:EOLhyphen"/>neſſes, that the forementioned <hi>Willoughby</hi> had ſtood twice in the pillory, once at <hi>Salisbury;</hi> and that in <hi>Berkſhire</hi> he had been whipt at the carts-tail.
+<pb n="4" facs="tcp:31622:3"/>
+               <!-- PDF PAGE 93 -->That he had been Convicted at the <hi>Old Bailey</hi> in <hi>London,</hi> for Defacing the Kings Arms upon the milled shillings and ſtamping the Croſs Scepters upon them; after which he Gilt them, and paſſed them away for Guinies. Some of the Letters which were in the Pacquet, pretended to be found in the Colonels Chamber, were written in Carracters, all of different Hands, and Contained Treaſonable Matters; with the names of a great many worthy Gentlemen, whoſe untainted Loyalty was thereby to have been rendered obnoxious. This <hi>Willoughby</hi> appeared at court very ſplen<g ref="char:EOLhyphen"/>did in Habit, with a ſervant in a Livery attending him: And it is ſaid, he was by a great perſon brought to his Majeſty about a month ſince, and recommended as a perſon much concerned in a <hi>Presbyterian</hi> Plot againſt his Majeſty, and Government, of which he would give his Majeſty a con<g ref="char:EOLhyphen"/>tinual account: And indeed his carriage and confidence was ſuch as might deſerve ſome credit at firſt, till he appeared ſo Black, by the diſ<g ref="char:EOLhyphen"/>covery of the whole cheat; that the Council declared, That they lookt on this maſter as a Deſign of the papists to put a ſtop to the proſecution of the plot, and that they were of opinion that his majesties perſon was ſtil in danger.</p>
+            <p>Upon <hi>Saturday, November</hi> 1. aforeſaid, the Council ſat late upon the further Examination of this <hi>Willoughby,</hi> and the midwife mrs, <hi>cellier,</hi> who was by <hi>Willoughby</hi> charged for holding a correſpondence to Aſſaſſinate the King and the Lord Shafts bury, naming alſo ſeveral other inſtruments engaged; among the rest, the Lady <hi>Powis.</hi> He aſo further inſiſted, That the ſaid mrs. <hi>Cellier</hi> had upbraided him with cowardice, for not ſtab<g ref="char:EOLhyphen"/>bing the Lord <hi>Shaftsbury</hi> which he confeſſed he had undertaken and re<g ref="char:EOLhyphen"/>ſolved to have done; but had not power to Execute, though his hand was twice on his Dagger: and that thereupon ſhe took the Dagger from him, ſaying, <hi>ſhe would do it her ſelf;</hi> in order whereunto ſhe made a Viſit to his Lordſhip, upon pretence of buſineſs; but was by providence prevent<g ref="char:EOLhyphen"/>ed, many other deteſtable Crimes ſhe was charged with, which were attended with ſuch circumſtances of Guilt, that the council ordered her from the <hi>gatehouſe</hi> to <hi>Newgate.</hi>
+            </p>
+            <p>One Mr. <hi>Rigault,</hi> a <hi>
+                  <g ref="char:V">Ʋ</g>irginia</hi> Merchant, inhabiting in the City, but a <hi>Frenchman</hi> born, was alſo accuſed for being in confederacy with her, and Examin'd, and afterwards committed to <hi>Newgate,</hi> The Earl o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Caſtlemain</hi> (being under Bail on a former accuſation) was likewiſe ac<g ref="char:EOLunhyphen"/>cus'd, examind, and Committed to the <hi>Tower.</hi>
+            </p>
+            <p>On <hi>Sunday</hi> at Four of the clock the Council being again Aſſem<g ref="char:EOLhyphen"/>bled, <hi>Danger field,</hi> Mr. <hi>Cellier,</hi> and Mr. <hi>John Gadbury</hi> the Aſtrologe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:31622:3"/>
+               <!-- PDF PAGE 93 -->were all Three brought and Examin'd: Mr. <hi>Gadbury</hi> was charg'd as a Confederate with the former; &amp; that he had caſt the Nativities of His Majeſty, and his Royal Highneſs, and had from thence drawn Trea<g ref="char:EOLhyphen"/>ſonable Concluſions, with divers other Matters of a High Nature for which he was ſent to the <hi>Gate-Houſe.</hi>
+            </p>
+            <p>Theſe Plotters had contrived a <hi>Scheme of Government</hi> wherein they had placed the Prime of His Majeſties moſt Faithful Nobility at the Helm of Government, by the old Name of <hi>Conſervators of the Liberties of Eng<g ref="char:EOLhyphen"/>land:</hi> And ſo in other Employments and Qualifications ſuch other Worthy perſons as were moſt oppoſite to their Intereſt, intending there<g ref="char:EOLhyphen"/>by their utter Extirpation, and the Ruin of the Government and Pro<g ref="char:EOLhyphen"/>teſtant Religion.</p>
+            <p>The Papers containing the Model of their Plot was found by Sir <hi>William Waller</hi> in Mr. <hi>Celliers</hi> Houſe in the bottom of a Meal-Tub under Meal, where no doubt they thought them ſafe enough from being ſeized; but the diligence of Sir <hi>William</hi> (Providence di<g ref="char:EOLhyphen"/>recting) found them out, to their no ſmall Amazement and Confu<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>Within a day or two after, Sir <hi>William Waller</hi> ſeized in a Houſe near the Arch in <hi>Lincolns-Inn Fields</hi> leading into <hi>Duke-Street,</hi> ſeveral Habits, Veſtments, Crucifixes, Reliques, and ſeveral other <hi>Popiſh Trinckets,</hi> all very rich, and of conſiderable value; as alſo divers Trunks and Boxes ſtuff'd full of Books and Papers<g ref="char:punc">▪</g> which, as it is ſaid, be<g ref="char:EOLhyphen"/>longed to Father <hi>Harcourt</hi> lately executed, and contain matters of great Importance to the farther diſcovery of the Plot, and confirmation of the King's Evidence.</p>
+            <p>They were diſcovered by means of a <hi>Bricklayer,</hi> who was mending the Tiles of the Houſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and perceiving them to be lodged in that ob<g ref="char:EOLhyphen"/>ſcure place, ſaid nothing till he had finiſhed his work; but then infor<g ref="char:EOLhyphen"/>med Sir <hi>William</hi> thereof, who coming with the <hi>Bricklayer</hi> and ſome o<g ref="char:EOLhyphen"/>ther Aſſiſtants, ſearched the Houſe, but could find no ſuch place; i ſo much that he began to ſuſpect ſome fraud in the <hi>Bricklayer,</hi> which put the <hi>Bricklayer</hi> in ſuch a rage, that he got upon the Houſe and until'd it. The Tiles were no ſooner laid open, but they diſcovered what they came for, and being got the wrong way into the Room, they ſoon found the right way out again.</p>
+            <p>From that Houſe they leaded a full Cart-load of the concealed goods beforementioned, part of which conſiſted of ſome hundreds of Books, very well bound in large <hi>Octavo,</hi> called <hi>the difference between Spritu<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>'s
+<pb n="6" facs="tcp:31622:4"/>
+                  <!-- PDF PAGE 94 -->and Temporals,</hi> being the Tranſlation of a <hi>Spaniſh</hi> Jeuit, by Sir <hi>Vi<g ref="char:EOLhyphen"/>vian Molineux,</hi> Dedicated to the preſent Queens Majeſty of <hi>England,</hi> and Printed in the year 1672. with many <hi>I opiſh Catichiſms</hi> and <hi>School-Books,</hi> to corrupt and poyſon the Youth of the Nation.</p>
+            <p>By the Time ſince theſe Books were Printed, the vaſt quantities which have been by Sir <hi>William Waller</hi> and other gentlemen, already Seized and burnt, by the quantities (which may be certain are ſtill conceal<g ref="char:EOLhyphen"/>ed, and by the vaſt Numbers which we may eaſily conceive) are al<g ref="char:EOLhyphen"/>ready ſcattered and diſperſed into private Hands and Families; we may readily calculate to what a Lofty Stature <hi>Popery</hi> would have grown in a few years more, by ſuch careful <hi>Waterings of the Tender Engliſh Plants</hi> as theſe: if not thus, in every thing, by a Miraculous Providence pre<g ref="char:EOLhyphen"/>vented.</p>
+            <p>Books are no leſs Criminal than men, in regard they intend the ſame Deſtruction of the Soul, as the other to the Body: And therfore it is as neceſſary to bring Books to condign puniſhment, as any other ſort of malefactors whatſoever. Theſe howſoever had the happineſs to accom<g ref="char:EOLhyphen"/>pany their Lord and Maſter <hi>Antichriſt,</hi> the riſe and ſource of all <hi>Europe</hi>'s Calamities, condemned by the people to thoſe Flames to which he had condemned the whole Kingdom. To which purpoſe, on the Fifth of <hi>November</hi> laſt, in the <hi>Palace-Yard</hi> at <hi>Weſtminſter,</hi> a great Bonefire was made, which proved the Funeral Pile of all theſe venomous Seduce<g ref="char:EOLhyphen"/>ments of <hi>Popery,</hi> and ſeveral Copes, and other Veſtments and Habits, Beads and other Trinkets, belonging, or at leaſt in the cuſtody of Fa<g ref="char:EOLhyphen"/>ther <hi>Harcourt,</hi> who had the impudence to avouch his innocency and al<g ref="char:EOLhyphen"/>legiance, with all this Trumpery and Teſtimonies of Rebellion, at the ſame time committed to his keeping.</p>
+            <p>Among theſe baubles was found one piece of great antiquity, and by computation of time almoſt 800 years old. It was a Croſs of Gold, weighing about Four ounces, upon which on the one ſide was engraven theſe words, <hi>Defendite Gentes-hanc partem Crucis Omnipotentis;</hi> in <hi>En<g ref="char:EOLhyphen"/>gliſh,</hi> Defend O ye Nations this part of the Omnipotent Croſs: On the other ſide were engraven the Arms of <hi>Alfred,</hi> King of <hi>England,</hi> who dyed in the year 901. Beſides which Engraveing, it was empail'd with divers precious Stones of a conſiderable value. Within this Croſs was another Croſs of Ebony, to which the Gold one ſeemed to ſerve only for a Caſe; and as if it had been a little Neſt of Serpentine Idola<g ref="char:EOLhyphen"/>try, the Ebony Croſs was inlaid with another Croſs of a quite d<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffe<g ref="char:EOLhyphen"/>rent Wood, which it is ſuppoſed their ſuperſtition believed to be a piece of the Croſs upon which our Saviour ſuffered.</p>
+            <p>
+               <pb facs="tcp:31622:4"/>
+               <!-- PDF PAGE 94 -->
+There was alſo a Gold Ring with a Motto, wrap'd up in white Pa<g ref="char:EOLunhyphen"/>per, upon which was written <hi>The Ring of the Biſhop of Glaſcow,</hi> with ſeveral other curioſities, which are as yet preſerved. The croſs was pre<g ref="char:EOLhyphen"/>ſented by Sir <hi>William</hi> to His Majeſty, who ſaid, he would keep it for its Antiquity.</p>
+            <p>Soon after was ſeized one <hi>Mr. Curtis,</hi> who is reported to have been formerly a clark to Sir <hi>William Bucknal,</hi> one of the Farmers of <hi>Exciſe;</hi> af<g ref="char:EOLhyphen"/>ter that a ſervant to mr. <hi>Henry Nevil;</hi> and laſtly to a worthy member of Parliament, from whoſe ſervice he betook himſelf to a debauched courſe of Life; and falling into the acquaintance of <hi>Dangerfield,</hi> and the reſt of that Gang, appears to have been deſigned for one of the eight witneſſes, that were to have ſworn in confirmation of this New Mock<g ref="char:EOLhyphen"/>plot. He was firſt examined by Mr. <hi>Warcup.</hi> and ſent a Priſoner to the <hi>Gate-houſe,</hi> and afterwards was ſent for before the Council, where doubt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs he confeſſed ſomthing of Importance, not yet fit to be made publick; whereby he obtained the favour of Bail, which was granted him accor<g ref="char:EOLhyphen"/>dingly.</p>
+            <p>As for the Lady <hi>P.</hi> it is ſaid ſhe has confeſſed all ſhe has been charged with, ſave only that ſhe was not privy to any Deſign to murder His moſt Sacred Majeſty. And indeed, that Lady was ſo brisk at her firſt Examina<g ref="char:EOLhyphen"/>tion as to deny that ever ſhe knew, or had ſeen Mr. <hi>Dangerfield;</hi> to which he reply'd, that ſhe had ſufficient Teſtimony in her own breaſt to con<g ref="char:EOLhyphen"/>vince her that ſhe knew him; which words he was afterwards forc'd to explain, no way to the advantage of the Lady.</p>
+            <p>One Mr. <hi>Bedford,</hi> being fallen into the Gang, was deſign'd to have been a Witneſs with Mr. <hi>Dangerfield</hi> againſt Sir <hi>Thomas Player,</hi> for Treaſon, which <hi>Dangerfield</hi> had ready drawn up (as if ſpoken by <hi>Sir Thomas</hi>) in the nature of an affidavit for him to ſet his Hand to. All <hi>Dangerfield</hi> put him to be<g ref="char:EOLhyphen"/>fore, went down well, 'till this writing appear'd, at which he boggld. And this being put to him in the very interim of Colonel <hi>Manſell</hi>'s diſco<g ref="char:EOLhyphen"/>very of the cheat, <hi>Bedford</hi> fairly came in and confeſs'd all he was privy to, which being back'd with ſeveral Evidences more againſt <hi>Dangerfield,</hi> was the firſt, occaſion of his Commitment: who though at firſt, as all Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>actors do, he thought to have blinded the Eye of Juſtice by a brazen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ced denial, yet ſuch has been his diſcovery ſince, and ſo well attended <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith circumſtances, and credible evidence, beſides ſomething conſidera<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of matter of Fact alſo, that His Majeſty and Council have thought <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t to grant him his pardon, as they have done to one Mr. <hi>Sergeant,</hi> a Se<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lar Prieſt, lately come from <hi>Holland</hi> with Mr. <hi>Sidney</hi> His Majeſties
+<pb n="8" facs="tcp:31622:5"/>
+               <!-- PDF PAGE 95 -->Embaſſad our to that State, who has given His Majeſty an account of the proceedings of the Papiſts abroad, in order to the accompliſhing their de<g ref="char:EOLhyphen"/>ſigns againſt His Perſon and Government at home, which God of his in<g ref="char:EOLhyphen"/>finite mercy preſerve.</p>
+            <p>Thus we may obſerve a Counterplot carried on by the ſame partie, that is to ſay, the <hi>Jeſuits</hi> and their accomplices; deſigned to cover their own diſhonourable Guilt, by accuſing the Innocent, and endea<g ref="char:EOLhyphen"/>vouring to incenſe His Majeſty againſt his own Subjects, in hopes thereby to diſable and enervate the ſtrength of his Kingdom; manag'd with a malice ſutable to the Crimſon cogitations of Rome, but with ſuch a pre<g ref="char:EOLhyphen"/>cipitation, as hath utterly defiled the Fame of <hi>Jeſuitical Craft,</hi> and ſhewed them rather actuated by the violent Springs and Reſorts of Neceſſity and Revenge, then by the regular rules of Knavery: or rather enforced by providence to farther confuſion, and haſtily driven forward with ſuch a choiſe of Inſtruments, that muſt for ever Obliterate the Scandals of thoſe infamous Libels which have endeavoured to invalidate the Kings Evidence by the Glamorous reproches of poverty and perjury, who were themſelves ſo impiouſly contriving to blow up the Loyalty, integrity and innocence of ſo many perſons of indelable worth and Honour, and with them he Reputation of ſo conſiderable a part of the People with a con<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ineed ſe<g ref="char:EOLhyphen"/>ries of the perjuries and falſe Teſtimonies of debauch<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry &amp; impiety: as if St. <hi>Omers Colledge</hi> were at ſuch a low <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bb, that it muſt beholding to our <hi>College</hi> of <hi>Newgate,</hi> for dexterity of Execution in the Canon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Popiſh Contrivances.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31622:5"/>
+            <!-- PDF PAGE 95 -->
+            <pb n="8" facs="tcp:31622:6"/>
+            <!-- PDF PAGE 96 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:31622:6"/>
+            <!-- PDF PAGE 96 -->
+         </div>
+      </body>
+   </text>
+</TEI>
